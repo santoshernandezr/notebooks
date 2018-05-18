@@ -20,3 +20,56 @@ fatal: unable to auto-detect email address (got 'jovyan@jupyter-benmarwick-2dnot
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"b"e"n"m"a"r"w" [A]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci""c"k"@"g"m"a"i"l"."c"o"m"
 ]0;/home/jovyan]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ git config --global user.email "benmarwicck@gmail.com"[A]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyou@examp[5Ple.com"[A]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ [C[C[C[C[C[C[15Pmmit -am "add file"
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[master bc93dab] add file
+ 27 files changed, 550 insertions(+)
+ create mode 100644 .rstudio/addin_registry
+ create mode 100644 .rstudio/console06/4E93819C
+ create mode 100644 .rstudio/console06/INDEX001
+ create mode 100644 .rstudio/history_database
+ create mode 100644 .rstudio/monitored/lists/file_mru
+ create mode 100644 .rstudio/monitored/user-settings/user-settings
+ create mode 100644 .rstudio/notebooks/patch-chunk-names
+ create mode 100644 .rstudio/notebooks/paths
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/executing
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/initial
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/last-used
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/project
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/r-version
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/r-version-home
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/running
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/save_prompt_required
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/properites/working-dir
+ create mode 100644 .rstudio/sessions/active/session-6aa0e8dc/session-persistent-state
+ create mode 100644 .rstudio/sources/prop/EC930936
+ create mode 100644 .rstudio/sources/prop/INDEX
+ create mode 100644 .rstudio/sources/s-6aa0e8dc/B47C8A27
+ create mode 100644 .rstudio/sources/s-6aa0e8dc/B47C8A27-contents
+ create mode 100644 .rstudio/sources/s-6aa0e8dc/lock_file
+ create mode 100644 .subversion/README.txt
+ create mode 100644 .subversion/config
+ create mode 100644 .subversion/servers
+ create mode 100644 I-made-this-in-rstudio-in-binder.R
+]0;/home/jovyan]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ git push
+fatal: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': benmarwick
+fatal: cannot run rpostback-askpass: No such file or directory
+Password for 'https://benmarwick@github.com': 
+To https://github.com/benmarwick/notebooks
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/benmarwick/notebooks'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;/home/jovyan]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ git pull
+remote: Counting objects: 3, done.[K
+remote: Compressing objects:  33% (1/3)   [Kremote: Compressing objects:  66% (2/3)   [Kremote: Compressing objects: 100% (3/3)   [Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+From https://github.com/benmarwick/notebooks
+   3a3dd3d..a758e76  master     -> origin/master
+hint: Waiting for your editor to close the file... fatal: cannot run vi: No such file or directory
+error: unable to start editor 'vi'
+Not committing merge; use 'git commit' to complete the merge.
+]0;/home/jovyan]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ [K]0;jovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw: ~[01;32mjovyan@jupyter-benmarwick-2dnotebooks-2d2htapzvw[00m:[01;34m~[00m$ git pullshcommit -am "add file"

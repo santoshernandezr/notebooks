@@ -24,4 +24,4 @@ When you create new notebooks, you can download them to your local computer (tic
 3. Make a note of why you're pushing changes with `git commit -m "message"` 
 4. Then `git push -u origin master`. The machine will ask for your username and password. 
 
-..and in this way your notebooks are saved to the repository, and thus under version control, so you can collaborate or restore to earlier versions. 
+..and in this way your notebooks are saved to the same GitHub repository, and thus under version control, so you can collaborate or restore to earlier versions. 
